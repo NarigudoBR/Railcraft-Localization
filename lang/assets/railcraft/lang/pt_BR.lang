@@ -17,7 +17,7 @@ cart.work=Vagão de Trabalho
 
 cube.brick.infernal=Tijolo Infernal
 cube.concrete=Bloco de Concreto
-cube.crushed.obsidian=Obsidiana Maçerada
+cube.crushed.obsidian=Obsidiana esmagada
 cube.steel=Bloco de Aço
 
 detector.advanced=Detector - Avançado
@@ -42,7 +42,7 @@ dust.obsidian=Pó de Obsidiana
 dust.saltpeter=Salitre
 dust.sulfur=Enxofre
 
-fuel.coke=Carvão de Coca
+fuel.coke=Coque
 
 gates.action.pause=Pausar trabalho
 gates.action.sendcart=Enviar vagão
@@ -62,7 +62,7 @@ gui.cart.track.relayer.pattern=Padrão
 gui.cart.track.relayer.stock=Quantidade
 gui.cart.undercutter.pattern=Padrão
 gui.cart.undercutter.stock=Quantidade
-gui.coke.oven=Forno de Coca
+gui.coke.oven=Forno de coque
 gui.detector.item.anything=Qualquer
 gui.detector.item.at_least=Pelo Menos
 gui.detector.item.at_most=No Máximo
@@ -102,10 +102,10 @@ fluid.creosote.wax=Cápsula de Cera de Creosoto
 fluid.steam=Vapor
 
 machine.alpha.blast.furnace=Tijolo de Forno Infernal
-machine.alpha.coke.oven=Tijolo de Forno de Coca
+machine.alpha.coke.oven=Tijolo de Forno de Coque
 machine.alpha.feed.station=Estação de Alimentação
 machine.alpha.rock.crusher=Esmagador de Pedras
-machine.alpha.rolling.machine=Máquina Roladora
+machine.alpha.rolling.machine=Máquina de Rolamento de trilhos
 machine.alpha.tank.water=Parede do Tanque de Água
 machine.alpha.anchor.world=Âncora Mundial
 
